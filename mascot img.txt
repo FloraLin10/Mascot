@@ -1,0 +1,6 @@
+<!DOCTYPE>
+<html>
+<body>
+	<img src="mascot.png">
+</body
+</html
